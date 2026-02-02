@@ -1,0 +1,2 @@
+# Galaxy-gptV1
+PAYMENT GALAXY-GPT VERSION 1
